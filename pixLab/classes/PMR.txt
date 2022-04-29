@@ -1,0 +1,12 @@
+PROJECT TITLE: 06_PixLab
+PURPOSE OF PROJECT: Learn how pictures can change and interact with code.
+VERSION or DATE: 4/11/22
+AUTHOR: Madeline Vande Hey
+
+***PMR***************************************************************************
+<+s>: Once I got the hang of mirroring the arms of the snowman, it was easy to 
+impliment the same code for the seagull.
+
+<-s>: Lining up the arms of the snowman was a little difficult.
+*********************************************************************************
+In the future: I will use a guess and check method to line up parts of images.
